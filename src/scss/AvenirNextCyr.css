@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('subset-AvenirNextCyr-Lightf7323.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Light4d534.woff') format('woff'),
+        url('subset-AvenirNextCyr-Lighta4df8.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('subset-AvenirNextCyr-Regular434fc.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Regularf81c6.woff') format('woff'),
+        url('subset-AvenirNextCyr-Regular0e892.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('subset-AvenirNextCyr-Medium49945.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Medium45c8a.woff') format('woff'),
+        url('subset-AvenirNextCyr-Mediumbbddf.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('subset-AvenirNextCyr-Bold42071.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Bold7a45a.woff') format('woff'),
+        url('subset-AvenirNextCyr-Bold07f15.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
